@@ -1,3 +1,3 @@
 # botcoder
-Bot Coder is a shell Script to writing HTML, CSS, JS and FrontEnd Library.
-Every body can  add/modify or Develop/ redistribute it under the terms of GNU GENERAL PUBLIC LICENSE.
+Bot Coder is a shell Script to Writing HTML, CSS, JS and FrontEnd Library.</b>
+Everybody can  add/modify or Develope it under the terms of GPL.
